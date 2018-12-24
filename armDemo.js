@@ -122,9 +122,9 @@
         blocks: [
             // 模块类型, 模块名称, 对应方法名称，参数依次对应的默认值
             [' ', '抬 起 ', 'put_up'],
-            [' ', '看一看 ', 'look'],
+            [' ', '你好 ', 'look'],
             [' ', '放 下 ', 'put_down'],
-            [' ', '能耗 ', 'move_forward'],
+            [' ', '向前 ', 'move_forward'],
             [' ', '向 后 ', 'move_backword'],
             [' ', '抓 住 ', 'hand_catch'],
             [' ', '放 开 ', 'hand_free'],
