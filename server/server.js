@@ -1,7 +1,7 @@
 var SerialPort = require('SerialPort');
 var url = require('url')
 
-var serialPort = new SerialPort("COM6", {
+var serialPort = new SerialPort("COM3", {
   baudRate: 115200
 });
 
