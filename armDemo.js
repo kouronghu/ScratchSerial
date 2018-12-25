@@ -1,5 +1,5 @@
 
-// https://zacsuo.github.io/ScratchSerial/armDemo.js
+// https://kouronghu.github.io/ScratchSerial/armDemo.js
 
 (function(ext) {
 
@@ -137,10 +137,10 @@
             my_first_menu:['one','two','three'],
             baudRates: [2400,5600, 9600, 19200, 38400, 57600, 115200]
         },
-        url:'https://github.com/zacSuo/ScratchSerial',
-        displayName: '机械臂功能测试'
+        url:'https://kouronghu.github.io/ScratchSerial',
+        displayName: '功能测试'
     };
  
     // 注册扩展插件
-    ScratchExtensions.register('机械臂小游戏', descriptor, ext);
+    ScratchExtensions.register('HRG测试硬件连接', descriptor, ext);
 })({});
